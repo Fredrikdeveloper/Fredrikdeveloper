@@ -9,7 +9,7 @@ I learn Front end
 <code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" height="25" /></code>
 <code><img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" height="25" /></code>
 <br />
-&nbsp; how to reach me: [@SayriddinovFaxriddin]{https://www.instagram.com/faxriddin_official12/ }
+&nbsp; how to reach me: Sayriddinov Faxriddin https://www.instagram.com/faxriddin_official12/ 
 
 
 
