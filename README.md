@@ -6,3 +6,5 @@ I learn Front end
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="25" /></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="25" /></code>
 <code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" height="25" /></code>
+<code><img src="![image](https://github.com/Fredrikdeveloper/Fredrikdeveloper/assets/121056090/554b0fa8-ed74-4a29-8bee-5183d5ca1405)
+" height="25" /></code>
